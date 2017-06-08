@@ -2,8 +2,6 @@ symbol-spacer-sketch-plugin
 =========
 [![GitHub release](https://badge.fury.io/gh/novemberfiveco%2Fsymbol-spacer-sketch-plugin.svg?maxAge=3600)](https://github.com/novemberfiveco/symbol-spacer-sketch-plugin/releases)
 
-Automatically resizes symbol to original size when switching from one spacing to another spacing symbol
-
 ## Blog post
 How we use this plugin in combination with AnimApp: 
 https://novemberfive.co/blog/animapp-sketch-spacings/
@@ -13,7 +11,7 @@ When you change a symbol that starts with the string `@spacing` (default) and de
  
 As a default, the spacings layer names should always start with "@spacing": @spacing-16, spacing / @spacing-32,... This is the naming we use, but you can change this to match your own conventions in the Settings.
  
-Unlike Sketch’s own default setting, **our plugin updates the layer name to match the name of the updated symbol**.
+Unlike Sketch’s own default setting, our plugin updates the layer name to match the name of the updated symbol.
 
 ![Symbol Spacer](https://raw.githubusercontent.com/novemberfiveco/symbol-spacer-sketch-plugin/master/src/images/spacing-plugin.gif)
 
