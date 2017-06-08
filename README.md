@@ -3,8 +3,8 @@ symbol-spacer-sketch-plugin
 [![GitHub release](https://badge.fury.io/gh/novemberfiveco%2Fsymbol-spacer-sketch-plugin.svg?maxAge=3600)](https://github.com/novemberfiveco/symbol-spacer-sketch-plugin/releases)
 
 ## Blog post
-How we use this plugin in combination with AnimApp: 
-https://novemberfive.co/blog/animapp-sketch-spacings/
+How we use this plugin in combination with Anima App: 
+https://novemberfive.co/blog/animaapp-sketch-spacings/
 
 ## Functionality
 When you change a symbol that starts with the string `@spacing` (default) and deselect, our plugin will automatically trigger Sketch’s “reset to original size” function. The symbol will be updated, and its size will be updated to the new symbol’s original size.
